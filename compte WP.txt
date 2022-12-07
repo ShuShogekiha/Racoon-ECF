@@ -1,0 +1,5 @@
+utilisateur:
+admin
+
+mot de passe:
+azerty12
